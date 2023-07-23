@@ -27,6 +27,7 @@ A PHP code example for stability.ai's artificial intelligence API. You can conve
 
 ## Authors
 
-- [instagram](https://instagram.com/rezakarimpour.pro)
-- [youtube](https://youtube.com/@root_one)
+[![linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rkarimpour/)
+[![youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@root_one)
+[![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rezakarimpour.pro)
 
